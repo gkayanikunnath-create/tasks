@@ -1,1 +1,1 @@
-
+Test for the validity of the radial acceleration relation (RAR) in the galaxy group scales and compare the results with the previous MOND tests in galactic scales.  The data for 17 galaxy groups are provided as separate files at "tasks/environment/data/". Each .dat file corresponds to an individual galaxy group that includes the total and baryonic acceleration data corresponding to the radial bins associated with a single object along with the quoted acceleration uncertainties. 
